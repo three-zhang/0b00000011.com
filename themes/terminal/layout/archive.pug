@@ -1,0 +1,15 @@
+extends includes/layout.pug
+block content
+  if true
+    each val in ["2018"]
+      .one-archive-list
+        i.fa.fa-calendar-o.fa-2x
+        span(id=val class="archive-title")= val
+        .post-preview
+          each post in site.posts.data
+            if date(post.date, 'Y') === val
+              .post-title
+                //time.article-date #[i(class="fa fa-calendar" aria-hidden="true")] !{date(post.date, "MM-DD")}
+                a(href=url_for(post.path))
+                  time.article-date=date(post.date, "MM-DD") + " " + post.title
+              hr
