@@ -21,6 +21,7 @@ html(lang=config.language)
       each url in theme.third_party.js
         script(src=url)            
     link(rel="icon", href=config.root + 'img/favicon.ico')
+    script="hljs.initHighlightingOnLoad()"
   //- body
   body
     nav#nav-bar

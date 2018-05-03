@@ -73,6 +73,8 @@ third_party:
   js:
     jquery: /js/third-party/jquery.min.js
     velocity: /js/third-party/velocity.min.js 
-    velocity-ui: /js/third-party/velocity.ui.min.js 
+    velocity-ui: /js/third-party/velocity.ui.min.js
+    highlightjs: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js
   css:
     font-awsome: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+    highlightjs-css: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css
