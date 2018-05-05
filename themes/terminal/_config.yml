@@ -77,4 +77,4 @@ third_party:
     highlightjs: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js
   css:
     font-awsome: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
-    highlightjs-css: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css
+    highlightjs-css: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css
