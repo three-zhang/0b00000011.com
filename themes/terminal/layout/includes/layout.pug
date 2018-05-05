@@ -35,7 +35,6 @@ html(lang=config.language)
           block content
     footer
       include ./footer.pug
-    script="hljs.initHighlightingOnLoad()"
     if theme.scripts !== undefined && theme.scripts.length > 0
       //- scripts list from config.yml
       each url in theme.scripts

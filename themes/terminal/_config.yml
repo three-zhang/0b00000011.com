@@ -68,6 +68,7 @@ scripts:
 - /js/nav.js
 - /js/scroll.js
 - /js/index.js
+- /js/hljs.js
 # the third-party loaded in the head
 third_party:
   js:
