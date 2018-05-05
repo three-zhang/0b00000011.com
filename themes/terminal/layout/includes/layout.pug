@@ -21,7 +21,6 @@ html(lang=config.language)
       each url in theme.third_party.js
         script(src=url)            
     link(rel="icon", href=config.root + 'img/favicon.ico')
-    script="hljs.initHighlightingOnLoad()"
   //- body
   body
     nav#nav-bar
@@ -36,7 +35,7 @@ html(lang=config.language)
           block content
     footer
       include ./footer.pug
-      
+    script="hljs.initHighlightingOnLoad()"
     if theme.scripts !== undefined && theme.scripts.length > 0
       //- scripts list from config.yml
       each url in theme.scripts
