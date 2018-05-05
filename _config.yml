@@ -85,22 +85,3 @@ deploy:
   repo: git@github.com:three-zhang/0b00000011.github.io.git
   branch: master
 
-# search
-jsonContent:
-  meta: false
-  pages: false
-  posts:
-    title: true
-    date: true
-    path: true
-    text: true
-    raw: false
-    content: false
-    slug: false
-    updated: false
-    comments: false
-    link: false
-    permalink: false
-    excerpt: false
-    categories: false
-    tags: false
