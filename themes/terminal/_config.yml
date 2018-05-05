@@ -76,6 +76,7 @@ third_party:
     velocity: /js/third-party/velocity.min.js 
     velocity-ui: /js/third-party/velocity.ui.min.js
     highlightjs: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js
+    clojure: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/clojure.min.js
   css:
     font-awsome: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
     highlightjs-css: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css
