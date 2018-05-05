@@ -11,9 +11,6 @@ tags:
 
 Leiningen project.clj
 
-<!--more-->
-
-
 ```clojure
 (defproject org.quantmatrix/prophet "1.0.0-SNAPSHOT"
   :description "Machine learning automatic quantitative trading system"
