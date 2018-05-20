@@ -4,3 +4,7 @@ date: 2018-05-17 16:17:23
 categories:
 tags:
 ---
+
+$$
+x=\sqrt [ n ]{ { x }^{ n } }
+$$
