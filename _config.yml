@@ -44,6 +44,18 @@ highlight:
   auto_detect: false
   tab_replace:
   hljs: true
+
+math:
+  engine: 'mathjax' # or 'katex'
+  mathjax:
+    src: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    config:
+      # MathJax config
+  katex:
+    css: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css"
+    js: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.js"
+    config:
+      # KaTeX config
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -75,6 +87,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 Plugins:
   - hexo-generator-cname
+  - hexo-math
 
 ## Themes: https://hexo.io/themes/
 theme: terminal
@@ -85,4 +98,3 @@ deploy:
   type: git
   repo: git@github.com:three-zhang/0b00000011.github.io.git
   branch: master
-
