@@ -1,11 +1,12 @@
 ---
-title: Mathematical-Notation
+title: Mathematical-Notation-1
 date: 2018-05-17 16:17:23
-categories:
+categories: mathematics
 tags:
+ - symbol
 ---
 
-## Notation
+## Notation Ⅰ
 
 <!-- more -->
 
@@ -56,19 +57,3 @@ tags:
 ### $ ! \quad { C }_{ n }^{ m } \quad { P }_{ n }^{ m } $
 
 ### $ P(A) \quad E(X)$
-
-### $ $
-
-### $ $
-
-### $ $
-
-### $ $
-
-### $ $
-
-### $ $
-
-### $ $
-
-
