@@ -49,11 +49,11 @@ tags:
 
 ### $ \therefore  { \quad }  \because  { \quad }  iff { \quad } \Longleftrightarrow { \quad } $
 
-### $ ( \quad ) { \quad } \\{ \quad  \\} { \quad } \[ \quad \] $
+### $ \left( \quad  \right) \quad \\left\\{ \quad  \\right\\} \quad \left[ \quad  \right] $
 
 ### $ G. C. M. \quad L. C. M. $
 
-### $ ! \quad { C }_{ n }^{ m } $
+### $ ! \quad { C }_{ n }^{ m } \quad { P }_{ n }^{ m } $
 
 ### $ P(A) \quad E(X)$
 
@@ -70,3 +70,5 @@ tags:
 ### $ $
 
 ### $ $
+
+
