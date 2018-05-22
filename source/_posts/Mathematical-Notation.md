@@ -49,7 +49,7 @@ tags:
 
 ### $ \therefore  { \quad }  \because  { \quad }  iff { \quad } \Longleftrightarrow { \quad } $
 
-### $ \left( \quad  \right) \quad \\left\\{ \quad  \\right\\} \quad \left[ \quad  \right] $
+### $ \left( \quad  \right) \quad \left\\{ \quad  \right\\} \quad \left[ \quad  \right] $
 
 ### $ G. C. M. \quad L. C. M. $
 
