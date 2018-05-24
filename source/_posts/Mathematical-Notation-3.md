@@ -11,3 +11,24 @@ tags:
 
 <!-- more -->
 
+### $ sgn $
+
+### $ { \delta  }_{ ij } $
+
+### $ \begin{vmatrix} a & b \\\ c & d \end{vmatrix} $
+
+### $ rank $
+
+### $ dim $
+
+### $ Im \quad Ker $
+
+### $ { A }^{ t }{ \quad A }^{ * }\quad trA $
+
+### $ \rightarrow \quad \left( x_{ 1 },\quad x_{ 2 },\quad ...,\quad x_{ n } \right)  $
+
+### $ \left| X \right| \quad \left\\\| x \right\\\|  $
+
+### $ \bigoplus  $
+
+### $ { W }^{ \bot  }{ \quad W }^{ * } $
